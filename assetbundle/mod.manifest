@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3591880892
+CRC: 2957494482
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3a049f455e7fdc8d863af076033a8d84
+    Hash: 1711dc4215f0ef2b19d672f5c84027de
   TypeTreeHash:
     serializedVersion: 2
     Hash: e6d74f2d6b370c4d26f3cae461538e43
@@ -26,6 +26,6 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
+- Assets/Mods/Turkey Leg Shop/Turkey Leg Shop@Smal_Turkey_Leg_low.prefab
 - Assets/Mods/Turkey Leg Shop/Turkey Leg Shop@store2c.prefab
-- Assets/Mods/Turkey Leg Shop/Turkey Leg Shop@Smal_Turkey_Leg.prefab
 Dependencies: []

@@ -4,9 +4,9 @@
   <ModDiscription>Fresh Roasted Turkey Legs</ModDiscription>
   <Objects>
     <Object>
-      <OBJName>Turkey Leg Shop@Smal_Turkey_Leg</OBJName>
+      <OBJName>Turkey Leg Shop@Smal_Turkey_Leg_low</OBJName>
       <Type>none</Type>
-      <inGameName>Smal_Turkey_Leg</inGameName>
+      <inGameName>Smal_Turkey_Leg_low</inGameName>
       <price>0</price>
       <recolorable>false</recolorable>
       <shader>Diffuse</shader>
@@ -14,11 +14,11 @@
     <Object>
       <OBJName>Turkey Leg Shop@store2c</OBJName>
       <Type>Shop</Type>
-      <inGameName>Turkey Leg Shop</inGameName>
+      <inGameName>Turkey Legs</inGameName>
       <price>200</price>
       <Shop>
         <Product>
-          <Model>Turkey Leg Shop@Smal_Turkey_Leg</Model>
+          <Model>Turkey Leg Shop@Smal_Turkey_Leg_low</Model>
           <Price>2</Price>
           <Type>consumable</Type>
           <Name>Turkey Leg</Name>
@@ -28,10 +28,10 @@
           <Portions>0</Portions>
           <Ingredients>
             <Ingredient>
-              <Name>Raw Turkey Leg</Name>
+              <Name>Raw Turkey Legs</Name>
               <Price>1</Price>
               <Amount>100</Amount>
-              <tweakable>false</tweakable>
+              <tweakable>true</tweakable>
               <Effects>
                 <effect>
                   <Type>hunger</Type>
