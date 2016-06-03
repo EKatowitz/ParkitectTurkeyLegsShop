@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Turkey Leg Shop</ModName>
+  <ModDiscription>Fresh Roasted Turkey Legs</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Turkey Leg Shop@Smal_Turkey_Leg</OBJName>
+      <Type>none</Type>
+      <inGameName>Smal_Turkey_Leg</inGameName>
+      <price>0</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Turkey Leg Shop@store2c</OBJName>
+      <Type>Shop</Type>
+      <inGameName>Turkey Leg Shop</inGameName>
+      <price>200</price>
+      <Shop>
+        <Product>
+          <Model>Turkey Leg Shop@Smal_Turkey_Leg</Model>
+          <Price>2</Price>
+          <Type>consumable</Type>
+          <Name>Turkey Leg</Name>
+          <Hand>Right</Hand>
+          <ConsumeAnimation>generic</ConsumeAnimation>
+          <Temprature>hot</Temprature>
+          <Portions>0</Portions>
+          <Ingredients>
+            <Ingredient>
+              <Name>Raw Turkey Leg</Name>
+              <Price>1</Price>
+              <Amount>100</Amount>
+              <tweakable>false</tweakable>
+              <Effects>
+                <effect>
+                  <Type>hunger</Type>
+                  <Amount>-1</Amount>
+                </effect>
+              </Effects>
+            </Ingredient>
+          </Ingredients>
+        </Product>
+      </Shop>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+  </Objects>
+</Mod>

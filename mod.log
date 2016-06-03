@@ -1,0 +1,20 @@
+[16-06-02 21:33:40] Info: Compiling Turkey Leg Shop to bin/build-160602213340687.dll...
+[16-06-02 21:33:40] Info: Compiling from `ModSparkLoader.csproj`.
+[16-06-02 21:33:40] Info: Resolved assembly reference `Assembly-CSharp` to `F:\Portable Apps\Games\Parkitect-Alpha\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-06-02 21:33:40] Info: IGNORING assembly reference `Depender`
+[16-06-02 21:33:40] Info: Resolved assembly reference `System` to `System.dll`
+[16-06-02 21:33:40] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-06-02 21:33:40] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-06-02 21:33:40] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-06-02 21:33:40] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-06-02 21:33:40] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-06-02 21:33:40] Info: Resolved assembly reference `UnityEngine` to `F:\Portable Apps\Games\Parkitect-Alpha\Parkitect_Data\Managed\UnityEngine.dll`
+[16-06-02 21:33:40] Info: Resolved assembly reference `UnityEngine.UI` to `F:\Portable Apps\Games\Parkitect-Alpha\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-06-02 21:33:40] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `C:\Users\Eric\Documents\Parkitect\pnmods\Turkey Leg Shop`.
+[16-06-02 21:33:40] Info: Compile using compiler version v3.5.
+[16-06-02 21:28:49] Info: Loaded build-160602212841956, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-02 21:28:49] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-02 21:31:13] Info: Loaded build-160602213102992, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-02 21:31:13] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-02 21:33:49] Info: Loaded build-160602213340687, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-02 21:33:49] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
